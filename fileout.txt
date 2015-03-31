@@ -1,0 +1,5 @@
+27.2	Overweight
+45.1562	Obese Class III (Very severely obese) 
+11.4136	Very severely underweight
+38.3234	Obese Class II (Severely obese) 
+17.5208	Underweight
